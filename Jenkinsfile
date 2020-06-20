@@ -20,7 +20,7 @@ pipeline {
         stage("Deploy") {
             
             steps {
-                echo 'Test successful, will deploy now'
+                echo 'Test successful, will deploy'
             }
         }
     }
