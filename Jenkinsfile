@@ -20,7 +20,6 @@ pipeline {
         stage("Deploy") {
             
             steps {
-                echo 'Test successful, will deploy'
 		echo 'Removed for PR'
             }
         }
