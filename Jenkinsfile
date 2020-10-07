@@ -21,7 +21,6 @@ pipeline {
             
             steps {
                 echo 'Test successful, will deploy'
-		echo 'Minor change for PR'
             }
         }
     }
