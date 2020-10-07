@@ -21,6 +21,7 @@ pipeline {
             
             steps {
 		echo 'Test successful, will deploy'
+		echo 'Change for PR'
             }
         }
     }
